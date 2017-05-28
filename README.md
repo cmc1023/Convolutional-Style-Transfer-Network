@@ -11,8 +11,9 @@ This code is based on [OlavHN/fast-neural-style](https://github.com/OlavHN/fast-
 
 >   In an attempt to learn Tensorflow I've implemented an Image Transformation Network as described in Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Johnson et al.
 
-| ![](examples/2-style2.jpg) | ![](examples/012-content.jpg)
+![](examples/2-style2.jpg) 
 
+![](examples/012-content.jpg)
 
 ------
 This picture with iteration = 500
