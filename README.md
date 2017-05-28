@@ -15,11 +15,13 @@ This code is based on [OlavHN/fast-neural-style](https://github.com/OlavHN/fast-
 
 ![](examples/012-content.jpg)
 
-------
+---
 This picture with iteration = 500
+---
 ![](examples/tongji20_iter_500.jpg)
 
 This picture with iteration = 1000
+---
 ![](examples/tongji20.jpg)
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
