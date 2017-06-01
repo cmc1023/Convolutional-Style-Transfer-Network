@@ -26,7 +26,8 @@ iteration = 1000
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
-content imgae
+content imgae: Tongji University
+----
 ![](examples/6-content.jpg) 
 
 iteration = 500
