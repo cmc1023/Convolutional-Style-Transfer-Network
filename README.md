@@ -28,11 +28,11 @@ iteration = 1000
 
 style image: Lotus
 ----
-![](examples/5-style.jpg)
+![](examples/5-style.jpg =530x400)
 
 content imgae: Tongji University
 ----
-![](examples/6-content.jpg) 
+![](examples/6-content.jpg =530x400) 
 
 iteration = 500
 ---
