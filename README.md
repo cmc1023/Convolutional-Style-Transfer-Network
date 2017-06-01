@@ -1,15 +1,15 @@
 # Deep Convolutional Style Transfer Network
 A tensorflow implementation for style transfer.
 
-    In an attempt to learn Tensorflow I've implemented an Image Transformation Network as described in 
-    Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Johnson et al.
+    In an attempt to learn Tensorflow I've implemented an image transformation network as described in 
+    A neural algorithm of artistic style by Gatys et al.
 
 This code is based on [OlavHN/fast-neural-style](https://github.com/OlavHN/fast-neural-style).
 
 *****
 
 
->   In an attempt to learn Tensorflow I've implemented an Image Transformation Network as described in Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Johnson et al.
+>   In an attempt to learn Tensorflow I've implemented an deep convolutional image transformation network as described in  by Gatys et al.
 
 Style image: starry  
 ---
@@ -24,13 +24,13 @@ Content imgae: Tongji University
 </div>
 
 ---
-With iteration 500
+Result 1: iteration = 500
 ---
 <div  align="center"> 
 <img src="examples/tongji20_iter_500.jpg" width = "450" height = "300"  align=center />
 </div>
 
-With iteration 1000
+Result 2: iteration 1000
 ---
 <div  align="center"> 
 <img src="examples/tongji20.jpg" width = "450" height = "300"  align=center />
