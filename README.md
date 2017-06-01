@@ -16,20 +16,25 @@ Style image: starry
 <div  align="center"> 
 <img src="examples/2-style2.jpg" width = "450" height = "300" alt="starry" align=center />
 </div>
-![](examples/2-style2.jpg) 
 
 Content imgae: Tongji University
 ---
-![](examples/012-content.jpg)
+<div  align="center"> 
+<img src="examples/012-content.jpg" width = "450" height = "300" alt="Chairman Mao" align=center />
+</div>
 
 ---
 iteration = 500
 ---
-![](examples/tongji20_iter_500.jpg)
+<div  align="center"> 
+<img src="examples/tongji20_iter_500.jpg" width = "450" height = "300"  align=center />
+</div>
 
 iteration = 1000
 ---
-![](examples/tongji20.jpg)
+<div  align="center"> 
+<img src="examples/tongji20.jpg" width = "450" height = "300"  align=center />
+</div>
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
