@@ -37,28 +37,28 @@ Result 2: iteration 1000
  Style: East of China
  ---
  <div  align="center"> 
-<img src="examples/444.png" width = "450" height = "450"  align=center />
+<img src="examples/444.png" width = "500" height = "450"  align=center />
 </div>
 
 ###
 Style: Scream
 ---
 <div  align="center"> 
-<img src="examples/333.png" width = "450" height = "450"  align=center />
+<img src="examples/333.png" width = "500" height = "450"  align=center />
 </div>
 
 ###
 Style: Colorful
 ---
 <div  align="center"> 
-<img src="examples/222.png" width = "450" height = "450"  align=center />
+<img src="examples/222.png" width = "500" height = "450"  align=center />
 </div>
 
 ###
 Style: Lover
 ---
 <div  align="center"> 
-<img src="examples/111.png" width = "450" height = "450"  align=center />
+<img src="examples/111.png" width = "500" height = "450"  align=center />
 </div>
 
 ###
