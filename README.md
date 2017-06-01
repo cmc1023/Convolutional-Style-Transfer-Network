@@ -64,7 +64,7 @@ Style: Lover
 ###
 Running
 ---
-    python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
+    python neural_style.py --content <content file> --styles <style file> --output <output file>
 
 Use --iterations to change the number of iterations (default 1000).
 
