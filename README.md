@@ -31,11 +31,13 @@ style image: Lotus
 
 <img src="examples/5-style.jpg" width = "533" height = "398" alt="5-style" align=left />
 
+<br />
 
 content imgae: Tongji University
 
 <img src="examples/6-content.jpg" width = "530" height = "398" alt="6-content" align=left />
 
+<br />
 
 iteration = 500
 ---
