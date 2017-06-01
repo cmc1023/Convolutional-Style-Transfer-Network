@@ -30,17 +30,18 @@ iteration = 1000
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
-Style: East of China
+###
+ Style: East of China
 ![](examples/444.png)  
----
 
+###
 Style: Scream
 ![](examples/333.png)
----
 
+###
 Style: Colorful
 ![](examples/222.png)
----
 
+###
 Style: Lover
 ![](examples/111.png)
