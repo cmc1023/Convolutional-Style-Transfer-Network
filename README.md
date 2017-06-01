@@ -62,13 +62,14 @@ Style: Lover
 </div>
 
 ###
-Running
+#Running
+---
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
 Use --iterations to change the number of iterations (default 1000).
 
 ###
-Requirements and Prerequisites:
-
+#Requirements and Prerequisites:
+---
 * Python 2.7.x
 * Tensorflow >= 1.0
