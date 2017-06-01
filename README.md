@@ -21,13 +21,13 @@ Content imgae: Tongji University
 </div>
 
 ---
-Result 1: iteration = 500
+Result image: iteration = 500
 ---
 <div  align="center"> 
 <img src="examples/tongji20_iter_500.jpg" width = "450" height = "300"  align=center />
 </div>
 
-Result 2: iteration 1000
+Result image: iteration 1000
 ---
 <div  align="center"> 
 <img src="examples/tongji20.jpg" width = "450" height = "300"  align=center />
