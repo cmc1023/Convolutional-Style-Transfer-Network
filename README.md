@@ -11,8 +11,10 @@ This code is based on [OlavHN/fast-neural-style](https://github.com/OlavHN/fast-
 
 >   In an attempt to learn Tensorflow I've implemented an Image Transformation Network as described in Perceptual Losses for Real-Time Style Transfer and Super-Resolution by Johnson et al.
 
+Style image: starry
 ![](examples/2-style2.jpg) 
 
+Content imgae: Tongji University
 ![](examples/012-content.jpg)
 
 ---
@@ -26,17 +28,11 @@ iteration = 1000
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
-Style image: Lotus
-----
-![](examples/5-style.jpg)
 
-Content imgae: Tongji University
-![](examples/6-content.jpg)
+![](examples/444.png)
 
-iteration = 500
----
-![](examples/tongji07_iter_500.jpg)
+![](examples/333.png)
 
-iteration = 1000
----
-![](examples/tongji07.jpg)
+![](examples/222.png)
+
+![](examples/111.png)
