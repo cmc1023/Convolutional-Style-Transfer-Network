@@ -31,7 +31,10 @@ iteration = 1000
 <p> </p> 
 
 <p>content imgae: Tongji University</p> 
+<p>
 <img src="examples/6-content.jpg" width = "530" height = "398" alt="6-content" align=left />  
+</p>
+
 <p> </p> 
 
 iteration = 500
