@@ -1,8 +1,8 @@
 # Deep Convolutional Style Transfer Network
 A tensorflow implementation for style transfer.
 
->   In an attempt to learn Tensorflow I've implemented an deep convolutional styletransformation network as described in  by Gatys et al.
->   <<A neural algorithm of artistic style>>
+>   In an attempt to learn Tensorflow I've implemented an deep convolutional styletransformation network as described in  by Gatys et al.   
+>   << A neural algorithm of artistic style >>
 
 This code is based on [OlavHN/fast-neural-style](https://github.com/OlavHN/fast-neural-style).
 
