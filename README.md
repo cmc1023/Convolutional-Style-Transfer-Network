@@ -24,13 +24,13 @@ Content imgae: Tongji University
 </div>
 
 ---
-iteration = 500
+With iteration 500
 ---
 <div  align="center"> 
 <img src="examples/tongji20_iter_500.jpg" width = "450" height = "300"  align=center />
 </div>
 
-iteration = 1000
+With iteration 1000
 ---
 <div  align="center"> 
 <img src="examples/tongji20.jpg" width = "450" height = "300"  align=center />
@@ -64,12 +64,14 @@ Style: Lover
 <img src="examples/111.png" width = "450" height = "300"  align=center />
 </div>
 
-#Running
+###
+Running
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
 Use --iterations to change the number of iterations (default 1000).
 
-#Requirements and Prerequisites:
+###
+Requirements and Prerequisites:
 
 * Python 2.7.x
 * Tensorflow >= 1.0
