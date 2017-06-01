@@ -34,7 +34,7 @@ Result 2: iteration 1000
 </div>
 
 ###
- Style: East of China
+ Style: Jiangnan
  ---
  <div  align="center"> 
 <img src="examples/444.png" width = "500" height = "450"  align=center />
