@@ -32,16 +32,20 @@ iteration = 1000
 
 ###
  Style: East of China
+ ---
 ![](examples/444.png)  
 
 ###
 Style: Scream
+---
 ![](examples/333.png)
 
 ###
 Style: Colorful
+---
 ![](examples/222.png)
 
 ###
 Style: Lover
+---
 ![](examples/111.png)
