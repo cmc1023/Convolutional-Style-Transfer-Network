@@ -27,15 +27,12 @@ iteration = 1000
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
 <p>style image: Lotus</p> 
-<img src="examples/5-style.jpg" width = "533" height = "398" alt="5-style" align=left />  
-<p> </p> 
+<p> <img src="examples/5-style.jpg" width = "533" height = "398" alt="5-style" align=left />  </p> 
+
 
 <p>content imgae: Tongji University</p> 
-<p>
-<img src="examples/6-content.jpg" width = "530" height = "398" alt="6-content" align=left />  
-</p>
+<p> <img src="examples/6-content.jpg" width = "530" height = "398" alt="6-content" align=left />  </p>
 
-<p> </p> 
 
 iteration = 500
 ---
