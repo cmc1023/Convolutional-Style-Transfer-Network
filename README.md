@@ -26,13 +26,14 @@ iteration = 1000
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
+
 style image: Lotus
 ----
-![](examples/5-style.jpg =530x400)
+<img src="examples/5-style.jpg" width = "530" height = "400" alt="5-style" align=left />
 
 content imgae: Tongji University
 ----
-![](examples/6-content.jpg =530x400) 
+<img src="examples/6-content.jpg" width = "530" height = "400" alt="6-content" align=left />
 
 iteration = 500
 ---
