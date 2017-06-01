@@ -55,7 +55,7 @@ Style: Colorful
 </div>
 
 ###
-Style: Lover
+Style: The woman with the parasol
 ---
 <div  align="center"> 
 <img src="examples/111.png" width = "500" height = "450"  align=center />
