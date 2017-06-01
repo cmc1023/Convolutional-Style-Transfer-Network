@@ -13,6 +13,9 @@ This code is based on [OlavHN/fast-neural-style](https://github.com/OlavHN/fast-
 
 Style image: starry  
 ---
+<div  align="center"> 
+<img src="examples/2-style2.jpg" width = "450" height = "300" alt="starry" align=center />
+</div>
 ![](examples/2-style2.jpg) 
 
 Content imgae: Tongji University
