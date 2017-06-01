@@ -36,24 +36,40 @@ iteration = 1000
 <img src="examples/tongji20.jpg" width = "450" height = "300"  align=center />
 </div>
 
-    python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
-
 ###
  Style: East of China
  ---
-![](examples/444.png)  
+ <div  align="center"> 
+<img src="examples/444.png" width = "450" height = "300"  align=center />
+</div>
 
 ###
 Style: Scream
 ---
-![](examples/333.png)
+<div  align="center"> 
+<img src="examples/333.png" width = "450" height = "300"  align=center />
+</div>
 
 ###
 Style: Colorful
 ---
-![](examples/222.png)
+<div  align="center"> 
+<img src="examples/222.png" width = "450" height = "300"  align=center />
+</div>
 
 ###
 Style: Lover
 ---
-![](examples/111.png)
+<div  align="center"> 
+<img src="examples/111.png" width = "450" height = "300"  align=center />
+</div>
+
+#Running
+    python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
+
+Use --iterations to change the number of iterations (default 1000).
+
+#Requirements and Prerequisites:
+
+* Python 2.7.x
+* Tensorflow >= 1.0
