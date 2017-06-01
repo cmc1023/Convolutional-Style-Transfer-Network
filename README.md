@@ -26,9 +26,13 @@ iteration = 1000
 
     python eval.py --model_file <your path to wave.ckpt-done> --image_file img/test.jpg
 
+content imgae
+![](examples/6-content.jpg) 
 
-| style                                   | content                             |  result                               |
-| --------                                | -----:                              | :----:                                |
-| 香蕉                                     | $1                                  |   5                                   |
-| 苹果                                     | $1                                  |   6                                   |
-| 草莓                                     | $1                                  |   7                                   |
+iteration = 500
+---
+![](examples/tongji07_iter_500.jpg)
+
+iteration = 1000
+---
+![](examples/tongji07.jpg)
